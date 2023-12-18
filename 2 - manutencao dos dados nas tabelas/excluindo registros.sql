@@ -1,0 +1,9 @@
+USE sucos;
+
+DELETE FROM tbproduto
+WHERE PRODUTO = 1037797;
+
+DELETE FROM tbproduto
+WHERE PRODUTO IN (1037797, 1000889, 1004327);
+
+SELECT * FROM sucos.tbproduto;

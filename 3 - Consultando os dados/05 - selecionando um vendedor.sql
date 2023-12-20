@@ -1,5 +1,5 @@
 
--- Consultar dados de todos vendedores Cláudia Morais
+-- Consultar dados de todos vendedores
 SELECT * FROM tbvendedores;
 
 -- Consultar dados de Cláudia Morais da Matricula '00236'

@@ -1,0 +1,3 @@
+
+SELECT * FROM tbvendedores
+WHERE PERCENTUAL_COMISSAO > 0.10;

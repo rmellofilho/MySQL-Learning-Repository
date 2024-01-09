@@ -1,0 +1,3 @@
+SELECT * FROM tbvendedores;
+
+SELECT * FROM tbvendedores WHERE DE_FERIAS = 'SIM' AND YEAR(DATA_ADMISSAO) <= 2016;

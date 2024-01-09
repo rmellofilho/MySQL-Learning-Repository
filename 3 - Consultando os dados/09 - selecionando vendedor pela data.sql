@@ -1,0 +1,1 @@
+SELECT * FROM tbvendedores WHERE YEAR(DATA_ADMISSAO) >= 2016;
